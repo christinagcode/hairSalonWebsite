@@ -50,6 +50,18 @@ h2 {
     font-weight: 600;
 }
 
+h3 {
+    font-family: 'Mochiy Pop One', sans-serif;
+    color: #F67562;
+    text-align: center;
+}
+
+h4{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    color: #ee8c78;
+}
+
 p {
     margin-top: 1em;
     margin-bottom: -1.3em;
