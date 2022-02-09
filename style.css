@@ -28,9 +28,6 @@ header {
 
 .nav-container a {
     color: orange;
-}
-
-a {
     background-color: white;
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
@@ -39,6 +36,8 @@ a {
     padding: 6px 10px;
     margin: 20px;
 }
+
+
 
 h1 {
     font-family: 'Short Stack', cursive;
@@ -108,6 +107,10 @@ padding: 5% 0 0 24%;
     height: 500px;
 }
 
+.article-2-container h3, h4{
+    color: #eb2f41;
+}
+
 .article-2-title{
     background-color: #eb2f41;
     width: 200px;
@@ -134,7 +137,7 @@ padding: 5% 0 0 24%;
 }
 
 .article-2-name {
-    margin: 25% 0 0 25%;
+    margin: 40% 0 0 15%;
 }
 
 .article-2b-container {
