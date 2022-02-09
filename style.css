@@ -160,8 +160,11 @@ padding: 5% 0 0 24%;
     border: solid 3px #FAB8AA;
 }
 
+.article-3a {
+    margin-left: 8%;
+}
 .article-3a ul{
-    text-decoration: none;
+    color: red;
 }
 .article-2a {
     width: 350px;
@@ -180,7 +183,7 @@ padding: 5% 0 0 24%;
     color: white;
     font-size: 15px;
     font-weight: 500;
-    padding-top: 25px;
+    padding: 2% 0 0 70%;
 }
 
 footer {
@@ -194,7 +197,19 @@ footer {
 }
 
 .footer-social-container {
-    background-color: red;
+    background-color: #f3927d;
     width: 140px;
-    height: 100px;
+    height: 50px;
+    margin: 2.5% 0 0 5%;
+
 }
+
+.footer-social-container ul{
+    padding-left: 6%;
+
+}
+
+.footer-social-container li{
+    display: inline-block;
+}
+
