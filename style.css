@@ -145,11 +145,36 @@ padding: 5% 0 0 24%;
     margin-left: 22%;
 }
 
-.article-3AB-container {
-    background-color: #ffe7e2;
+.article-3AB-container { 
     width: 465px;
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    gap: 2%;    
 }
 
+.bunny-game {
+    margin: 4% 0 0 8%;
+}
+
+.article-3A-container {
+    border: solid 3px #FAB8AA;
+}
+
+.article-3a ul{
+    text-decoration: none;
+}
+.article-2a {
+    width: 350px;
+}
+.article-3B-container {
+    border: solid 3px #FAB8AA;
+    display: flex;
+}
+
+.article-3b {
+    margin: 10% 20% 0 0;
+    width: 200px;
+}
 .copyright {
     font-family: 'Montserrat', sans-serif;
     color: white;
@@ -172,12 +197,4 @@ footer {
     background-color: red;
     width: 140px;
     height: 100px;
-}
-
-ul{
-    text-decoration: none;
-}
-
-li {
-   
 }
