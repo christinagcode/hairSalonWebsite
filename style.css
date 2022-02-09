@@ -98,7 +98,7 @@ padding: 5% 0 0 24%;
     flex-wrap: wrap;
     justify-content:center;
     gap: .43%;
-    margin: .5% 0 0 0;
+    margin: .5% 0 3% 0;
 }
 
 .article-2-container {
@@ -126,6 +126,20 @@ padding: 5% 0 0 24%;
 .feature-image {
     background-color: transparent;
     margin-left: 5%;
+    margin-top: 10%;
+}
+
+.article-2a-container {
+    display: flex;
+}
+
+.article-2-name {
+    margin: 25% 0 0 25%;
+}
+
+.article-2b-container {
+    width: 350px;
+    margin-left: 22%;
 }
 
 .article-3AB-container {
