@@ -1,0 +1,119 @@
+body{
+    margin: 0;
+}
+
+header {
+    background-color: #FAB8AA;
+    margin: 0;
+    height: 150px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.logo {
+    background-color:#F08A4C;
+    text-align: center;
+    padding: 2%;
+    width: 200px;
+    height: 140px;
+    color: white;
+    margin-left: 500px;
+ 
+}
+.nav-container {
+    float: right;
+    margin-top: 10%;
+    margin-left: -15%;
+}
+
+.nav-container a {
+    color: orange;
+    background-color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 17px;
+    border-radius: 8px;
+    padding: 6px 10px;
+    margin: 20px;
+}
+
+
+
+h1 {
+    font-family: 'Short Stack', cursive;
+    font-size: 60px;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+
+h3 {
+    font-family: 'Mochiy Pop One', sans-serif;
+    color: #F67562;
+    font-size: 30px;
+}
+
+h4{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    color: #FAB8AA;
+}
+
+
+p {
+    margin-top: 1em;
+    margin-bottom: -1.3em;
+}
+
+.rabbits-gallerycontainer {
+    width: 1200px;
+    margin: 6% 0 0 20%;
+}
+
+.gallery-title {
+    margin-left: 4%;
+}
+
+.dwarf-gallery img {
+    width: 18%;
+    border: solid 3px orange;
+    margin: .2%;
+}
+
+.copyright {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-size: 15px;
+    font-weight: 500;
+    padding: 2% 0 0 70%;
+}
+
+footer {
+    text-align: center;
+    background-color: #FAB8AA;
+    margin-bottom: 50px;;
+    height: 110px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    height: 100px;
+}
+
+.footer-social-container {
+    background-color: #f3927d;
+    width: 140px;
+    height: 50px;
+    margin: 2.5% 0 0 5%;
+
+}
+
+.footer-social-container ul{
+    padding-left: 6%;
+
+}
+
+.footer-social-container li{
+    display: inline-block;
+}
+
