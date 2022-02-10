@@ -66,20 +66,6 @@ p {
     margin-bottom: -1.3em;
 }
 
-.rabbits-gallerycontainer {
-    width: 1200px;
-    margin: 5% 0 4% 20%;
-}
-
-.gallery-title {
-    margin-left: 4%;
-}
-
-.dwarf-gallery img {
-    width: 18%;
-    border: solid 3px orange;
-    margin: .2%;
-}
 
 .copyright {
     font-family: 'Montserrat', sans-serif;
