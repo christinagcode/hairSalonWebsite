@@ -58,7 +58,23 @@ h3 {
 h4{
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
-    color: #FAB8AA;
+    color: #333333;
+    font-size: 17px;
+}
+
+h5 {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 20px;
+}
+
+h6{
+    font-family
+}
+
+.news-1-title {
+    font-family: 'Libre Baskerville', serif;
+    color: #d3563c;
+    font-size: 30px;
 }
 
 p {
@@ -66,13 +82,51 @@ p {
     margin-bottom: -1.3em;
 }
 
+.news-container {
+    display: flex;
+    margin: 4% 0 2% 26%;
+    height: 700px;
+}
+
+.news-1-container {
+    width: 600px;
+}
+
+.news-2-title {
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Short Stack', cursive;
+    color: orange;
+    margin: 5% 0 0 0;
+}
+
+.news-2-container {
+    background: #ffe7e2;
+    border: solid 3px orange;
+    width: 330px;
+}
+
+.name {
+    font-family: 'Montserrat', sans-serif;
+    color: orange;
+    font-weight: 500;
+    font-size: 20px;
+    margin: 6% 0 0 12%;
+}
+.news-2a-container {
+    margin: 6% 0 0 30%;
+}
+
+.news-2-container img {
+    width: 62%;
+}
 
 .copyright {
     font-family: 'Montserrat', sans-serif;
     color: white;
     font-size: 15px;
     font-weight: 500;
-    padding: 2% 0 0 70%;
+    padding: 4% 0 0 70%;
 }
 
 footer {
